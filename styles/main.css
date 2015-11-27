@@ -5,16 +5,18 @@ body {
 h1 {
 	color: #000;
 	font-family: 'Montserrat', sans-serif;
-	font-size: 25px;
+	font-size: 20px;
 	text-align : justify;
-	margin-left: 20%;
-	margin-right: 20%;
+	margin-left: 25%;
+	margin-right: 25%;
+	margin-top:	10%;
+	margin-bottom:	7%;
 }
 p{
 	color: #000;
 	font-family: 'Unna', serif;
 	font-size: 20px;
 	text-align : justify;
-	margin-left: 20%;
-	margin-right: 20%;
+	margin-left: 25%;
+	margin-right: 25%;
 }
