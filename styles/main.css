@@ -2,15 +2,18 @@ body {
 	background: #fff;
 }
 
-}
-div#intro {
+h1 {
 	color: #000;
 	font-family: 'Montserrat', sans-serif;
+	font-size: 25px;
+	text-align : justify;
+	margin-left: 20%;
+	margin-right: 20%;
 }
 p{
 	color: #000;
 	font-family: 'Unna', serif;
-	font-size: 25px;
+	font-size: 20px;
 	text-align : justify;
 	margin-left: 20%;
 	margin-right: 20%;
