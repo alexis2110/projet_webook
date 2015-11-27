@@ -45,23 +45,10 @@ blockquote {
 	top: 0;
 	width: 100%;
 	z-index: 50;
+	height: 70px;
+	margin-top: 0px;
+	margin-bottom: 0px;
 
 
-}
 
-.menu {
-	height: 70px; margin-top: 0px; margin-bottom: 0px; width: 1000px;
-
-}
-.active1 {
-	color: #FFFFFF;
-	list-style-type: none;
-	text-align: center;
-	position: relative;
-	z-index: 0;
-	padding: 1.5em;
-	float: left;
-	margin-right: 0em;
-	font-family: 'MontSerrat', sans-serif;
-	overflow: hidden;
 }
