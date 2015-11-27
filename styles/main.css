@@ -1,11 +1,17 @@
 body {
-	background: #078;
+	background: #fff;
+}
+
+}
+div#intro {
+	color: #000;
+	font-family: 'Montserrat', sans-serif;
 }
 p{
-	color: #fff
-}
-h1 {
-	color: #000 ;
-}
-p{font-family: 'Open Sans', sans-serif;
+	color: #000;
+	font-family: 'Unna', serif;
+	font-size: 25px;
+	text-align : justify;
+	margin-left: 20%;
+	margin-right: 20%;
 }
