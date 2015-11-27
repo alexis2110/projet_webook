@@ -2,26 +2,9 @@ body {
 	background: #fff;
 }
 
-h1 {
-	color: #000;
-	font-family: 'Montserrat', sans-serif;
-	font-size: 20px;
-	text-align : justify;
-	margin-left: 25%;
-	margin-right: 25%;
-	margin-top:	10%;
-	margin-bottom:	7%;
-}
-
-h2 {
-	font-family: 'Montserrat', sans-serif;
-	color: #BDBDBD;
-	text-align : left;
-	font-size: 40px;
-	position: absolute;
-	top: 12%;
-	left: 78%;
-	right: 5%;
+section {
+	position : relative;
+	margin: 10% auto;
 }
 
 p{
@@ -29,6 +12,28 @@ p{
 	font-family: 'Unna', serif;
 	font-size: 20px;
 	text-align : justify;
-	margin-left: 25%;
-	margin-right: 25%;
+	max-width : 45%;
+	margin : 4% auto;
+}
+
+blockquote {
+	font-family: 'Montserrat', sans-serif;
+	 font-weight: 700;
+	color: #BDBDBD;
+	text-align : left;
+	font-size: 40px;
+	max-width : 200px;
+	position : absolute;
+	top : 0;
+	right : 5%;
+	margin-top: 0;
+}
+
+.intro {
+	color: #000;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
+	font-size: 20px;
+	text-align : justify;
+	margin-top: 0;
 }
