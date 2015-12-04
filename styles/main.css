@@ -16,6 +16,24 @@ p{
 	margin : 4% auto;
 }
 
+
+h1 {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	color: #fff;
+	font-size: 25px;
+	text-transform: uppercase;
+	text-align : justify;
+		height: 90px;
+		position: absolute;
+
+top: 32%;
+height: 90px;
+margin-top: 0px;
+
+
+}
+
 blockquote {
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 700;
@@ -41,16 +59,32 @@ blockquote {
 }
 
 .site-top {
+	position: absolute;
 	border: 0;
 	background: #FCE1CB;
 	border-bottom: 1px;
 	top: 0;
-	width: 100%;
-	z-index: 50;
-	height: 70px;
+	width: 69%;
+	left: 27%;
+	height: 90px;
 	margin-top: 0px;
 	margin-bottom: 0px;
 
+}
 
+.site-top1 {
+
+position: absolute;
+background-size: 27%;
+background: #FCE1CB;
+left: 4%;
+border: 0;
+border-bottom: 1px;
+top: 0;
+width: 27%;
+
+height: 70px;
+margin-top: 0px;
+margin-bottom: 0px;
 
 }
